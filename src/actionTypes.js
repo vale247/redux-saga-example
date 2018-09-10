@@ -1,0 +1,6 @@
+// action types
+export const SIMPLE_FETCH = "SIMPLE_FETCH";
+export const API_CALL_REQUEST = "API_CALL_REQUEST";
+export const API_CALL_RUNNING = "API_CALL_RUNNING";
+export const API_CALL_SUCCESS = "API_CALL_SUCCESS";
+export const API_CALL_FAILURE = "API_CALL_FAILURE";
